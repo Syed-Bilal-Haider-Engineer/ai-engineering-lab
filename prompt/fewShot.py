@@ -5,7 +5,7 @@ English: Bird → Spanish: Pájaro
 English: Fish → Spanish: Pez"""
 
 client = OpenAI(
-   api_key="AIzaSyDFjM67t_Ag_4p_ltXxwC-AzkrPHiz6q2s",
+   api_key="",
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
